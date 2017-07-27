@@ -110,7 +110,7 @@ $app->put('/api/building/{id}', function ($request) {
 
 });
 
-$app->delete('/api/building/delete',function(&request){
+$app->delete('/api/building/delete',function($request){
 
 
 });
